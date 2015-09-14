@@ -5,7 +5,7 @@ var bodyParser = require('body-parser');
 var Officer = require('./models/officer.js');
 // var Counter = require('./db/counter.js');
 // app.locals.users = [];
-
+//Patrick was here
 // app.use('/public', express.static(''))
 
 // TODO: update with handlebars info
